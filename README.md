@@ -1,4 +1,4 @@
-course code CSC212
+course code CSC212<<endl;
 CITI Global College (Cabuyao campus)
 PACRIS, Arnniel Kheneth D.
 2A1-1BSC
