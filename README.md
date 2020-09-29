@@ -4,7 +4,7 @@ CITI Global College (Cabuyao campus)
 
 PACRIS, Arnniel Kheneth D.
 
-2A1-1BSC
+2A1-1BSCS
 
 Hi all my codes(C++ language) posted here inlcuding all activities we make in our subject in particular to
 COMPUTER PROGRAMMING 2(CSC212) such as assignment, online class activity, quizes, exams.
