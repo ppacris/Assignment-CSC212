@@ -10,7 +10,7 @@ int main()
 	a = count;
 	count += 1;
 	if ( count >= 1 || count <= 9 ){
-		for ( int b = 1; b <= count; b++ ){
+		for ( int b = 1; b <= 10; b++ ){
 			cout<< a << "*" << b << " = " << a*b << endl;
 			}
 	} else{
