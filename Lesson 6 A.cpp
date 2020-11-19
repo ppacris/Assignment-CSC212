@@ -5,11 +5,12 @@
 using namespace std;
 
 void write();
-int read();
+double read();
 
 int main()
 {
-    int input, avg = 0;
+    int input;
+    double avg = 0;
     char repeat;
     
     while (repeat != 'N' && repeat != 'n'){
@@ -33,9 +34,10 @@ int main()
     return 0;
 }
 
-int read(){
+double read(){
     string find, sname;
-    int q1, q2, q3, avg;
+    int q1, q2, q3;
+    double avg;
     ifstream oFile;
     oFile.open("quiz.txt");
     cout << "Enter Name: ";
